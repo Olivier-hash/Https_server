@@ -1,4 +1,4 @@
-// basicServer.js scrip
+// basicServer.js scri
 const http = require('http');
 
 const server = http.createServer((req, res) => {
