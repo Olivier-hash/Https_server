@@ -18,4 +18,4 @@ server.listen(3000, () => {
   console.log("✅ Server is listening on http://localhost:3000");
 });
 
-// dexc start form  integrate custom email validation logic
+// dex start form  integrate custom email validation logic
